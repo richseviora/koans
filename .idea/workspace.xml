@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fb420c7f-1064-412e-8247-03061e81cd11" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_hashes.rb" afterPath="$PROJECT_DIR$/about_hashes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_strings.rb" afterPath="$PROJECT_DIR$/about_strings.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koans.iws" />
@@ -29,21 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_hashes.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+      <file leaf-file-name="about_strings.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_strings.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59366757" vertical-offset="2195" max-vertical-offset="2728">
-              <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="neo.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/neo.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.0740743" vertical-offset="0" max-vertical-offset="11902">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.5804749" vertical-offset="0" max-vertical-offset="4488">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -63,6 +53,7 @@
         <option value="$PROJECT_DIR$/about_arrays.rb" />
         <option value="$PROJECT_DIR$/about_array_assignment.rb" />
         <option value="$PROJECT_DIR$/about_hashes.rb" />
+        <option value="$PROJECT_DIR$/about_strings.rb" />
       </list>
     </option>
   </component>
@@ -145,7 +136,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424053875171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished Hash Koan">
+      <created>1424054767096</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1424054767096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -190,7 +187,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Updating Koans" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Koans" />
+    <MESSAGE value="Finished Hash Koan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Hash Koan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -261,18 +259,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18733509" vertical-offset="2349" max-vertical-offset="2728">
+          <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/neo.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.0740743" vertical-offset="0" max-vertical-offset="11902">
+        <state vertical-scroll-proportion="0.3125" vertical-offset="0" max-vertical-offset="11902">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+    <entry file="file://$PROJECT_DIR$/about_strings.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59366757" vertical-offset="2195" max-vertical-offset="2728">
-          <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.5804749" vertical-offset="0" max-vertical-offset="4488">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding />
         </state>
       </provider>
